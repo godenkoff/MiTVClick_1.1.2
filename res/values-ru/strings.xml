@@ -21,7 +21,7 @@
   <string name="set_pic_vivid">Режим "Яркий"</string> 
   <string name="set_pic_sports">Режим "Спорт"</string> 
   <string name="set_pic_game">Режим "Игровой"</string> 
-  <string name="screenshot_sucess">"Скриншот сохранен как: "</string> 
+  <string name="screenshot_sucess">"Скриншот сохранен как:"</string> 
   <string name="screenshot_failed">Скриншот не сохранен, для использования функции требуется Root-доступ</string> 
   <string name="setting_autorun_prompt">Служба "Горячих клавиш" запускается автоматически</string> 
   <string name="setting_on">Включить</string> 
