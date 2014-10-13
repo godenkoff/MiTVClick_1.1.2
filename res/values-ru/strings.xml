@@ -2,7 +2,7 @@
 - <resources>
   <string name="app_name">MiTV Magic Remote</string> 
   <string name="action_settings">Настройки Magic Remote</string> 
-  <string name="service_name">GanFan的热键监控服务</string> 
+  <string name="service_name">Служба горячих клавиш GanFan</string> 
   <string name="setting_3d">Настройки 3D</string> 
   <string name="quick_shutdown">Отключение блокировки экрана</string> 
   <string name="pic_mode">Режим изображения</string> 
